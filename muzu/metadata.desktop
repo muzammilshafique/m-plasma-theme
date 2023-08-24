@@ -1,0 +1,10 @@
+[AdaptiveTransparency]
+enabled=true
+
+[Desktop Entry]
+Name=Muzu
+X-KDE-PluginInfo-Author=Muzammil
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-Name=Muzu
+X-KDE-PluginInfo-Version=1.2.5
+X-Plasma-API=5.0
