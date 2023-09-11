@@ -1,9 +1,9 @@
-# muzu-plasma-theme
+# m-plasma-theme
 KDE plasma theme with some improvements
 
 Usage :  
 its pretty simple 
-just put muzu folder in 
+just put m folder in 
 .local/share/plasma/desktoptheme/muzu
 
 features : 
