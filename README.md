@@ -1,10 +1,21 @@
-# muzu-plasma-theme
-KDE plasma theme with some improvements
+# Muzu Plasma Theme
 
-Usage :  
-its pretty simple 
-just put muzu folder in 
-.local/share/plasma/desktoptheme/muzu
+Sleek KDE Plasma theme incorporating notable enhancements, like:
 
-features : 
-> Supports color scheme , blur ui , better system icons , better task bar icons effect
+1. Supports color scheme
+1. Blur UI
+1. Better system icons
+1. Better taskbar icon effects
+
+### Usage
+
+Installation is pretty simple, just clone the repo and copy/paste the `muzu` directory into your `desktoptheme` dir
+
+```
+$ git clone https://github.com/muzammilshafique/m-plasma-theme.git
+$ mv m-plasme-theme/muzu ~/.local/share/plasma/desktoptheme/
+```
+
+### KDE Store
+
+**Muzu** is available on the **KDE Store**: [Link](https://store.kde.org/p/2076403)
