@@ -6,7 +6,7 @@ Sleek KDE Plasma theme incorporating notable enhancements, like:
 1. Blur UI
 1. Better system icons
 1. Better taskbar icon effects
-1. Removed glow effect (for screencorners and hidden panel) 
+1. Removed glow effect (for screen edges and hidden panel) 
 
 ### Usage
 
