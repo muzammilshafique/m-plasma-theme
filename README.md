@@ -10,8 +10,12 @@ Sleek KDE Plasma theme incorporating notable enhancements, like:
 
 Blur background
 ![IMAGEblur](https://github.com/muzammilshafique/m-plasma-theme/blob/main/images/1.png?raw=true)
+
 Improved taskbar indicator
 ![IMAGEtaskbar](https://github.com/muzammilshafique/m-plasma-theme/blob/main/images/2.png?raw=true)
+
+
+WhiteSur icon pack used in images
 
 ### Installation
 
@@ -21,7 +25,7 @@ Improved taskbar indicator
 - Top right button Get new
 - Search muzu then click on install
 - Apply theme
-
+  
 ### Usage (2nd method)
 
 Installation is pretty simple, just clone the repo and copy/paste the `muzu` directory into your `desktoptheme` dir
