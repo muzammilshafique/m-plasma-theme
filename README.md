@@ -32,7 +32,7 @@ Installation is pretty simple, just clone the repo and copy/paste the `muzu` dir
 
 ```
 $ git clone https://github.com/muzammilshafique/m-plasma-theme.git
-$ mv m-plasme-theme/muzu ~/.local/share/plasma/desktoptheme/
+$ mv m-plasma-theme/muzu ~/.local/share/plasma/desktoptheme/
 ```
 
 ### KDE Store
