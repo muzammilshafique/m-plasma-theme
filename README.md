@@ -6,7 +6,7 @@ Sleek KDE Plasma theme incorporating notable enhancements, like:
 2. Blur UI
 3. Better taskbar icon effects 
 
-### Installaion
+### Installation
 
 - Open kde settings
 - Go to Color and themes
