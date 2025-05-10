@@ -7,7 +7,7 @@ Sleek KDE Plasma theme incorporating notable enhancements, like:
 3. Better taskbar icon effects 
 
 ## Screenshots
-![image 1](https://github.com/muzammilshafique/m-plasma-theme/images/1.png)
+![IMAGEblur](https://github.com/muzammilshafique/m-plasma-theme/blob/main/images/1.png?raw=true)
 
 
 ### Installation
