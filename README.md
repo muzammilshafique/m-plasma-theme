@@ -1,14 +1,21 @@
-# Muzu Plasma Theme
+# Muzu Plasma Theme (Plasma 6 Supported)
 
 Sleek KDE Plasma theme incorporating notable enhancements, like:
 
 1. Supports color scheme
-1. Blur UI
-1. Better system icons
-1. Better taskbar icon effects
-1. Removed glow effect (for screen edges and hidden panel) 
+2. Blur UI
+3. Better taskbar icon effects 
 
-### Usage
+### Installaion
+
+- Open kde settings
+- Go to Color and themes
+- plasma style
+- Top right button Get new
+- Search muzu then click on install
+- Apply theme
+
+### Usage (2nd method)
 
 Installation is pretty simple, just clone the repo and copy/paste the `muzu` directory into your `desktoptheme` dir
 
