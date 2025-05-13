@@ -14,6 +14,9 @@ Blur background
 Improved taskbar indicator
 ![IMAGEtaskbar](https://github.com/muzammilshafique/m-plasma-theme/blob/main/images/2.png?raw=true)
 
+Change blur intensity from settings
+![IMAGEblur](https://github.com/muzammilshafique/m-plasma-theme/blob/main/images/3.png?raw=true)
+
 
 WhiteSur icon pack used in images
 
